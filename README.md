@@ -1,0 +1,3 @@
+# OOP_project
+This is an OOP project for third semester. It is a 2D car game with a car and obstacles in the road. The obstacles are cleared by firing the bullets. As time progress, the difficulty increases. There are three levels in the game. The first level is basic level where you have to avoid collision with other obstacles. The second level is fuel shortage level. As the name suggests there is shortage of fuel in the road and you have to cross the lap without any additional fuel available in the road. For this the player has to fire few amount of bullets and cross the lap to enter next level. The final level is engine fail level where the engine doesnot work normally(as in level one and two) and try to avoid collision with the obstacles.
+
